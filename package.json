@@ -1,0 +1,24 @@
+{
+  "name": "v7rx28",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "algoliasearch": "4.11.0",
+    "classnames": "2.2.6",
+    "qs": "6.8.0",
+    "react": "17.0.2",
+    "react-compound-slider": "2.2.0",
+    "react-dom": "17.0.2",
+    "react-instantsearch-dom": "6.38.1"
+  },
+  "description": null,
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
